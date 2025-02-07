@@ -25,10 +25,18 @@ This project is structured as a monorepo and includes both backend and frontend 
 
 ### 🚀 **Frontend Setup**
 
-The frontend is built using **ReactJS** and stores superhero data in an in-memory database.
+The frontend is built using **ReactJS** and allows you to manage superheroes.
 
 ```bash
 cd humble-superhero-api/frontend-app
+```
+
+### 🚀 **Backend Setup**
+
+The backend is built using **NestJS** and stores superhero data in an in-memory database.
+
+```bash
+cd humble-superhero-api/backend-app
 ```
 
 ## 🧠 If I Had More Time
