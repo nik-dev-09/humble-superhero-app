@@ -1,6 +1,6 @@
 # Humble Superhero APP
 
-Welcome to the **Humble Superhero APP** project! This API allows you to manage superheroes, their superpowers, and humility scores. Each superhero is unique in their own way, but it's their humility that makes them truly stand out.
+Welcome to the **Humble Superhero APP** project! This APP allows you to manage superheroes, their superpowers, and humility scores. Each superhero is unique in their own way, but it's their humility that makes them truly stand out.
 
 ## 🦸‍♂️ **Project Overview**
 
@@ -28,7 +28,7 @@ This project is structured as a monorepo and includes both backend and frontend 
 The frontend is built using **ReactJS** and allows you to manage superheroes.
 
 ```bash
-cd humble-superhero-api/frontend-app
+cd .\humble-superhero-app\frontend-app\
 ```
 
 ### 🚀 **Backend Setup**
@@ -36,7 +36,7 @@ cd humble-superhero-api/frontend-app
 The backend is built using **NestJS** and stores superhero data in an in-memory database.
 
 ```bash
-cd humble-superhero-api/backend-app
+cd .\humble-superhero-app\backend-app\
 ```
 
 ## 🧠 If I Had More Time
